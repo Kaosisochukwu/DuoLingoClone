@@ -47,7 +47,7 @@ I have chosen to duplicate the following layout from the Duolingo app:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://imgur.com/a/F4dWYdr' title='Video Demo of Duolingo Clone' width='' alt='https://imgur.com/a/F4dWYdr' />
+<img src='https://imgur.com/a/F4dWYdr.gif' title='Video Demo of Duolingo Clone' width='' alt='https://imgur.com/a/F4dWYdr.gif' />
 
 GIF created with ScreenToGif
 
