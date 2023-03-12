@@ -41,13 +41,13 @@ The following EXTRA features are implemented:
 
 I have chosen to duplicate the following layout from the Duolingo app:
 
-<img src='http://example.com/link/to/your/image.png' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
+<img src='https://design.duolingo.com/identity/logos' title='Duolingo Logo' width='' alt='https://design.duolingo.com/identity/logos' />
 
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://imgur.com/a/F4dWYdr' title='Video Demo of Duolingo Clone' width='10' alt='https://imgur.com/a/F4dWYdr' />
+<img src='https://imgur.com/a/F4dWYdr' title='Video Demo of Duolingo Clone' width='' alt='https://imgur.com/a/F4dWYdr' />
 
 GIF created with ScreenToGif
 
